@@ -688,6 +688,6 @@ This project is licensed under the **MIT License**.
 
 **Made with ❤️ by CodeOrbit Team**
 
-[⭐ Star us on GitHub](https://github.com/your-repo) | [📖 Documentation](./docs/) | [🐛 Report Bug](https://github.com/your-repo/issues)
+[⭐ Star us on GitHub](https://github.com/IlluMinati-Github/CodeOrbit) | [📖 Documentation](./docs/) | [🐛 Report Bug](https://github.com/IlluMinati-Github/CodeOrbit/issues)
 
 </div>
